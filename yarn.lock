@@ -2465,17 +2465,19 @@ istanbul@~0.4.5:
     which "^1.1.1"
     wordwrap "^1.0.0"
 
-jquery-deparam@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/jquery-deparam/-/jquery-deparam-0.1.0.tgz#eaa60c1699fab7637d1acb8d2a08c72d095a0b96"
+jquery-deparam@^0.5.3:
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/jquery-deparam/-/jquery-deparam-0.5.3.tgz#51f937c448175445499081b87bf32b241b1e2693"
+  integrity sha512-R+X/F4echMhrcy2ko2I0Ek6nNN0ffnoK3VbwECEQ4hVmUu87sGjsxlLet/4nK/HtsG4ZHN/2SqqC2PkH/nKngg==
 
 jquery.cookie@^1.4.1:
   version "1.4.1"
   resolved "https://registry.yarnpkg.com/jquery.cookie/-/jquery.cookie-1.4.1.tgz#d63dce209eab691fe63316db08ca9e47e0f9385b"
 
-jquery@1.11.2:
-  version "1.11.2"
-  resolved "https://registry.yarnpkg.com/jquery/-/jquery-1.11.2.tgz#30ab26857211c37caa83da0f6903155fe49bb72d"
+jquery@>1.11.2:
+  version "3.7.1"
+  resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.7.1.tgz#083ef98927c9a6a74d05a6af02806566d16274de"
+  integrity sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg==
 
 js-base64@^2.1.8:
   version "2.3.2"
